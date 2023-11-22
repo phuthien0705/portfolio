@@ -27,10 +27,12 @@ function Introduction() {
               I debug more than I code.
               <br />
               <br />
-              My pronouns are{" "}
+              I'm driven by a passion for{" "}
               <i>
-                <b>Uncle Thien / Master of none</b>
+                <b className="purple">web development, </b>
               </i>
+              and I take pride in my ability to tackle challenges with
+              enthusiasm and precision.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
