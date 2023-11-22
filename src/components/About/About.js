@@ -4,7 +4,7 @@ import Tilt from "react-parallax-tilt";
 import Particle from "../Particle";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/my_image.jpg";
+import laptopImg from "../../Assets/my_image.webp";
 import Footer from "../Footer";
 
 function About() {
