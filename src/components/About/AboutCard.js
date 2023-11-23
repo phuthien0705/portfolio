@@ -18,6 +18,7 @@ function AboutCard() {
             industry trends and technologies, and I'm eager to continue
             expanding my knowledge and expertise in the field.
             <br />
+            <br />
             My goal is to further advance my career as a software engineer,
             using my skills and experience to contribute to innovative and
             impactful projects in the field of information technology.
